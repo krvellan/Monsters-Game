@@ -35,7 +35,7 @@ Copy and paste a sample input or your own input on line 194
 4) If there is a tie in hit points for an attack, an attack is selected using alphabetical order.
 ```
 
-> # **DON’T FORGET TO PASTE SAMPLE INPUT INTO LINE 194 IN THE SAME FORMAT.**
+> # **DON’T FORGET TO PASTE SAMPLE INPUT INTO LINE 194 IN THE SAME FORMAT AS BELOW.**
 
 # **Sample Tests**
 
