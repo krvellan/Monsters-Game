@@ -33,7 +33,6 @@ Sample Tests
 
 Sample Input 1:
 ```
-
 a = Monster("a", 9)
 b = Monster("b",9)
 a.add_attack("ice_storm")
@@ -47,11 +46,14 @@ print(moves)
 ```
 
 Sample Output 1:
+```
 3
 a
 ['ice_storm', 'ice_storm', 'ice_storm']
+```
 
 Sample Input 2:
+```
 a = Dragon("a", 18)
 b = Ghost("b",18)
 a.add_attack("ice_storm")
@@ -71,9 +73,10 @@ print(winner.attacks)
 print(winner.exp)
 print(winner.max_hp)
 print(moves)
-
+```
 
 Sample Output 2:
+```
 6
 A
 {'ice_storm': 3}
@@ -86,8 +89,10 @@ A
 10
 18
 ['ice_storm', 'ice_storm', 'ice_storm', 'ice_storm', 'ice_storm', 'ice_storm']
+```
 
 Sample Input 3:
+```
 a = Dragon("a", 18)
 b = Ghost("b", 18)
 a.add_attack("ice_storm")
@@ -107,9 +112,10 @@ print(winner.attacks)
 print(winner.exp)
 print(winner.max_hp)
 print(moves)
-
+```
 
 Sample Output 3:
+```
 5
 b
 {'double_hit': 4}
@@ -122,5 +128,6 @@ b
 10
 23
 ['double_hit', 'double_hit', 'double_hit', 'double_hit', 'double_hit']
+```
 
 
