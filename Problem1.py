@@ -188,3 +188,13 @@ def monster_fight(monster1, monster2):
             monster2.win_fight()
             monster1.lose_fight()
             return(a, monster2, monster2_moves)
+       
+   
+# Paste sample input code below
+
+
+
+
+
+
+
