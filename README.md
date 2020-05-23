@@ -32,7 +32,7 @@ DON’T FORGET TO PASTE SAMPLE INPUT INTO LINE 194 IN THE SAME FORMAT.
 Sample Tests
 
 Sample Input 1:
-'''
+```
 
 a = Monster("a", 9)
 b = Monster("b",9)
@@ -44,7 +44,7 @@ round1, winner, moves = monster_fight(a, b)
 print(round1)
 print(winner.name)
 print(moves)
-'''
+```
 
 Sample Output 1:
 3
