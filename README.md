@@ -1,4 +1,4 @@
-###### **Monsters-Game**
+**Monsters-Game**
 
 The following program is a game that allows you to pick the characteristics of two monsters that you will make. Every monster will start out with only the “wait” attack. You can add attacks to the monster, but the monster can only have a max of four attacks at a time. If you add an attack when the monster already has four, the weakest one is dropped automatically. If there is a tie for weakest attack, the weakest attack that comes first alphabetically is dropped. If all of a monster’s attacks are removed, “wait” will automatically be added again, so that every monster always has at least 1 attack. In addition, there are two monster types: Dragon and Ghost, both which inherit all of the properties of the Monster class. Both should have their “type” attribute updated to ‘dragon’ or ‘ghost’ respectively. Initially a monster’s type is set to “Normal”. You only need to do the following if you would like to change the “type”, of the monster to Dragon or Ghost.
 
