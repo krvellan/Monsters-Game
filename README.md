@@ -21,11 +21,6 @@ Open the file “problem1.py” in your desired IDE
 Input test cases to run.
 Copy and paste a sample input or your own input on line 194
 
-
-
-
-
-
 Running the tests
 Now what happens when our monsters fight:
 
@@ -34,8 +29,11 @@ Now what happens when our monsters fight:
 3) The attacks are looped from most powerful to least powerful attack until there is a winner. 
 4) If there is a tie in hit points for an attack, an attack is selected using alphabetical order.
 DON’T FORGET TO PASTE SAMPLE INPUT INTO LINE 194 IN THE SAME FORMAT.
+
 Sample Tests
+
 Sample Input 1:
+
 a = Monster("a", 9)
 b = Monster("b",9)
 a.add_attack("ice_storm")
